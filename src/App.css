@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+.Happy{
+    background-color: yellow;
+}
+.Sad{
+    background-color: red;
+}
+.excited{
+    background-color: skyblue;
+}
+.Angry{
+    background-color: blue;
+}
